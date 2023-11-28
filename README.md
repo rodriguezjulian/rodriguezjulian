@@ -16,7 +16,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Imagen 4" width="50">
   </div>
   
-Actualmente me encuentro capacitandome en HTML,CSS y javaScript, sumado a estar trabajando en proyectos de tipo WindowsForm desarrollados con C# .NET 6.0.
+Actualmente me encuentro trabajando con .NET, SQL y entity framework en proyectos internos de Cedeira Software Factory.
 Pueden contactarme por medio de Linkedln o a mi mail: julian.rodriguez.t2@gmail.com 
 
 <div align="left">
